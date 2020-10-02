@@ -1,0 +1,131 @@
+h1
+{
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+header
+{
+    border: solid black;
+    border-top: 2px;
+    border-left: 2px;
+    border-right: 2px; 
+    background-color: #d6b2d5;
+    height: 80px;
+    -webkit-text-stroke: 2px white; 
+}
+nav
+{
+    padding :255px 0px 0px 0px;
+    background-color: rgb(204, 88, 13);
+    height: 100vh;
+    width:160px;
+    overflow: auto;
+    float: left;
+}
+nav a{
+    font-family: cursive;
+    margin:20px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color:rgb(255,255,255);
+    text-decoration: none;
+    opacity: 0.8;
+    -webkit-text-stroke: 2px white;
+    
+}
+nav img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 100px;
+    width :80px;
+    margin-bottom: 30px;
+}
+nav a:hover
+{
+    opacity: 1;
+    font-size: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+div{
+    padding: 20px;
+    display: inline-block;
+    width:75%;
+    height: 100%;
+}
+div h1{
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: left;
+    color: #292073;
+    -webkit-text-stroke: 4px black; 
+}
+#address
+{
+    font-size: 30px;
+    color: #ec540b;
+    -webkit-text-stroke: 2px black;
+}
+.active
+{
+    color:black;
+    font-size: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+}
+#education
+{
+    font-size: 30px;
+    font-family: cursive;
+}
+.normal
+{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(191, 9, 9);
+    -webkit-text-stroke: 3px black;
+}
+.para
+{
+    font-family: cursive;
+    font-size: 30px;
+}
+span
+{
+    font-weight: bold;
+}
+.skills
+{
+    background-color: #d6b2d5;
+    width:70%;
+    border:5px solid black;
+}
+.skills img
+{
+    border:3px solid black;
+    display: inline-block;
+    height: 110px;
+    width: 110px;
+    margin: 50px;
+}
+.brnav
+{
+    border: 2px solid black;
+    border-top: 0px;
+}
+#name
+{
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: left;
+}
